@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// bruteforce logic
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 
    *returnSize = 2; 
