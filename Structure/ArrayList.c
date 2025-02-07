@@ -1,5 +1,8 @@
+// This is Interger data type based ArrayList.
+//please point out any potential mistake is occur which is i messed
+
 #include <stdio.h> // standard input output
-#include <stdlib.h> // memmory allcaction 
+#include <stdlib.h> // memmory allocation 
 #include <assert.h> // debug purpose
 #include <string.h> // for memmove funciton 
 
