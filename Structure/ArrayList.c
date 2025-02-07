@@ -1,4 +1,4 @@
-// This is Interger data type based ArrayList.
+// This is  an Interger data type based ArrayList.
 //please point out any potential mistake is occur which is i messed
 
 #include <stdio.h> // standard input output
